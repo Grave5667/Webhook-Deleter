@@ -1,0 +1,2 @@
+# Webhook-Deleter
+MedusaWebhook Deleter
